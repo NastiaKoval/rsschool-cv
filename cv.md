@@ -35,4 +35,4 @@ My coding experience is the execution of training projects. I wrote some respons
 * 2019 - 2020 Online part of *FRONT-END (JAVASCRIPT)* **EPAM University Program Ukraine**
 
 ### English
-My English level is B1(*Intermediate*).
+My English level is B1(*Intermediate*). I try to constantly improve my language level!
